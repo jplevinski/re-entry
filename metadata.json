@@ -1,8 +1,0 @@
-{
-  "name": "Southeast Michigan Reentry Guide",
-  "description": "An easy-to-read, resource-packed step-by-step reentry guide for returning citizens in Southeastern Michigan, written at a 6th-grade level.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
